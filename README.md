@@ -23,16 +23,16 @@ Players can move around using the left joystick on the controller and rotate usi
 
 - Can be picked up with either the left or right hand  
 - When grabbed, pressing the trigger projects the orb at high speed toward the direction the player is aiming  
-- Plays a sound when projected
+- Plays a sound when projected  
 
 ## Credits
 
 Assets:
 
-"Japanese Style Fence" [label]((https://skfb.ly/6WNnP)) by Mizuchi Sensei is licensed under Creative Commons Attribution [label]((http://creativecommons.org/licenses/by/4.0/)).
-Stone table - "Stone Table - Classical Style" [label]((https://skfb.ly/oOpMB)) by Samuel F. Johanns (Oneironauticus) is licensed under Creative Commons Attribution [label]((http://creativecommons.org/licenses/by/4.0/)).
-"Japanese Lowpoly temple" [label]((https://skfb.ly/UoIL)) by carolinefangel is licensed under Creative Commons Attribution [label]((http://creativecommons.org/licenses/by/4.0/)).
-"Japanese Stone Lantern" [label]((https://skfb.ly/6QTTv)) by Sahir Virmani is licensed under Creative Commons Attribution [label]((http://creativecommons.org/licenses/by/4.0/)).
-"Dragon katana "Oni koroshi"" [label]((https://skfb.ly/6QZpN)) by Sky_Hunter is licensed under Creative Commons Attribution [label]((http://creativecommons.org/licenses/by/4.0/)).
-"Time Orb" ([label](https://skfb.ly/6Y9vz)) by murilojones is licensed under Creative Commons Attribution [label]((http://creativecommons.org/licenses/by/4.0/)).
-"wukong - 悟空" ([label](https://skfb.ly/pyt76)) by Beerus is licensed under Creative Commons Attribution [label]((http://creativecommons.org/licenses/by/4.0/))
+"Japanese Style Fence" (<https://skfb.ly/6WNnP>) by Mizuchi Sensei is licensed under Creative Commons Attribution (<http://creativecommons.org/licenses/by/4.0/>)
+Stone table - "Stone Table - Classical Style" (<https://skfb.ly/oOpMB>) by Samuel F. Johanns (Oneironauticus) is licensed under Creative Commons Attribution (<http://creativecommons.org/licenses/by/4.0/>)
+"Japanese Lowpoly temple" (<https://skfb.ly/UoIL>) by carolinefangel is licensed under Creative Commons Attribution (<http://creativecommons.org/licenses/by/4.0/>).
+"Japanese Stone Lantern" (<https://skfb.ly/6QTTv>) by Sahir Virmani is licensed under Creative Commons Attribution (<http://creativecommons.org/licenses/by/4.0/>).
+"Dragon katana "Oni koroshi"" (<https://skfb.ly/6QZpN>) by Sky_Hunter is licensed under Creative Commons Attribution (<http://creativecommons.org/licenses/by/4.0/>).
+"Time Orb" (<https://skfb.ly/6Y9vz>) by murilojones is licensed under Creative Commons Attribution (<http://creativecommons.org/licenses/by/4.0/>)
+"wukong - 悟空" (<https://skfb.ly/pyt76>) by Beerus is licensed under Creative Commons Attribution (<http://creativecommons.org/licenses/by/4.0/>)
